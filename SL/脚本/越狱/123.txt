@@ -1,0 +1,6 @@
+[ÕËºÅÊı¾İ]
+count=4
+id1=OK,so1yan,2111
+id2=so2yan,111
+id3=so4yan,11
+id4=so5yan,1111
